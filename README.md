@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -48,5 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
