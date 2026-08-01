@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
