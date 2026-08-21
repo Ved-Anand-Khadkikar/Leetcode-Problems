@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
