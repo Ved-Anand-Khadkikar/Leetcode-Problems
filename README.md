@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0735-asteroid-collision) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
