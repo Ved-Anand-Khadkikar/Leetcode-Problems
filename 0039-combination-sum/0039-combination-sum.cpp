@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void combinationSum(int i, vector<int>& candidates, int target,
+    void cSum(int i, vector<int>& candidates, int target,
                         vector<vector<int>>& ans, vector<int>& temp) {
         if (i > candidates.size() - 1) {
             if (target == 0) {
@@ -10,16 +10,16 @@ public:
         }
         if (candidates[i] <= target) {
             temp.push_back(candidates[i]);
-            combinationSum(i, candidates, target - candidates[i], ans, temp);
+            cSum(i, candidates, target - candidates[i], ans, temp);
             temp.pop_back();
         }
-        combinationSum(i + 1, candidates, target, ans, temp);
+        cSum(i + 1, candidates, target, ans, temp);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> temp;
-        combinationSum(0, candidates, target, ans, temp);
+        cSum(0, candidates, target, ans, temp);
         return ans;
     }
 };
