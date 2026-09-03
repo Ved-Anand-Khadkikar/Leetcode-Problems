@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -147,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ved-Anand-Khadkikar/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
